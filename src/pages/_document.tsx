@@ -13,7 +13,7 @@ export default function Document() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <body className='bg-gray-900'>
+      <body className='bg-gray-900 bg-app bg-no-repeat bg-cover'>
         <Main />
         <NextScript /> 
       </body>
